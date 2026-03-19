@@ -1,5 +1,5 @@
 {
-  "imagePath": "image-targets/my-target_luminance.png",
+"imagePath": "image-targets/my-target/my-target_luminance.png"
   "metadata": null,
   "name": "my-target",
   "type": "PLANAR",
